@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Taipei Veterans General Hospital.</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.vghtpe.gov.tw/'>Taipei Veterans General Hospital</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office Number: 886-2-2875-7027</p>
     <p>Department of Psychiatry, Taipei Veterans General Hospital</p>
     <p>201, Section 2, Shipai Rd, Beitou District, Taipei City, Taiwan 11217</p>
 
