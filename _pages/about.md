@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office Number: 886-2-2875-7027</p>
+    <p>Department of Psychiatry, Taipei Veterans General Hospital</p>
+    <p>201, Section 2, Shipai Rd, Beitou District, Taipei City, Taiwan 11217</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
