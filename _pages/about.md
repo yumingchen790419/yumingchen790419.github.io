@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="{{ '/assets/pdf/CV.pdf' | relative_url }}" target="_blank">CV</a></p>
+    <p><a href="/assets/pdf/CV.pdf" target="_blank">CV</a></p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
