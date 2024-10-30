@@ -1,36 +1,36 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yu-Ming Chen",
+    "label": "Psychiatrist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ymchen8@vghtpe.gov.tw",
+    "phone": "886-2-2875-7027",
+    "url": "https://yumingchen790419.github.io",
+    "summary": "A board-certified psychiatrist aiming to bridge mental health and AI-driven technologies.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "201, Section 2, Shipai Rd",
+      "postalCode": "11217",
+      "city": "Taipei",
+      "countryCode": "Taiwan",
+      "region": "Beitou District"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "Frank790419",
+        "url": "https://x.com/Frank790419"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Department of Psychiatry, Taipei Veterans General Hospital",
+      "position": "Psychiatrist and Fellow in Child and Adolescent Psychiatry",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2020-08-01",
+      "endDate": "2025-07-31",
+      "summary": "Working as a general psychiatrist while receiving fellowship training on child and adolescent psychiatry",
+      "highlights": ["Autism"]
     }
   ],
   "volunteer": [
