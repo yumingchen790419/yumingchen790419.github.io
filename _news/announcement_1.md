@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I passed the board license exam and received the board certification of psychiatry. 
+Passed the board license exam and received board certification in psychiatry.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am starting the fellowship training in child and adolescent psychiatry. 
+Began fellowship training in child and adolescent psychiatry.

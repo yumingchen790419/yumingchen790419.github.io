@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-The collaborative work on exploring the potential of the multimodal LLM on assesing social reciprocity in autism was submitted. 
+Submitted collaborative work on exploring the potential of multimodal LLMs in assessing social reciprocity in autism.
 
