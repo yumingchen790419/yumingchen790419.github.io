@@ -6,7 +6,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <div class="cv-link-container" style="text-align: center;">
       <p class="cv-link"><a href="/assets/pdf/CV.pdf" target="_blank">Curriculum Vitae</a></p>
