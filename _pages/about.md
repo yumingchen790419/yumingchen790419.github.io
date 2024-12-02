@@ -17,8 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a board-certified psychiatrist at <a href='https://www.vghtpe.gov.tw/'>Taipei Veterans General Hospital</a> in Taiwan. To address mental healthcare challenges through data-driven approaches, I earned an additional degree in mathematics and computer science after medical school. This allows me to approach mental health from both clinical and computational perspectives.
+I am a board-certified psychiatrist at <a href='https://www.vghtpe.gov.tw/'>Taipei Veterans General Hospital</a> in Taiwan. I earned an additional degree in mathematics and computer science after medical school, which allows me to approach mental health from both clinical and computational perspectives.
 
-As a psychiatrist, I'm particularly interested in designing and applying multimodal AI to advance psychiatric assessments and interventions. Therefore, I focus on utilizing multimodal AI to identify biomarkers for mental health conditions by integrating speech, behavior, and nonverbal cues. This approach enhances diagnostic accuracy and enables personalized treatment plans. Additionally, I aim to develop AI models that incorporate paralinguistic and nonverbal signals to gain deeper insights into social interactions, thereby improving psychological interventions like social skills training and cognitive behavioral therapy.
+As a psychiatrist, I aim to leverage diverse data modalities—including text, speech, visual behavioral data, physiological signals, and brain images—to develop AI models that facilitate precision psychiatry and personalized interventions. This approach enhances diagnostic accuracy and enables personalized treatment plans. 
 
 By leveraging cutting-edge technology and data-driven insights, I aim to revolutionize how we diagnose, treat, and support individuals with mental health conditions. Through my work, I strive to enhance care quality, improve patient outcomes, and make mental healthcare more accessible and effective for all.
