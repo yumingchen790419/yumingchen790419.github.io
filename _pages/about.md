@@ -19,6 +19,6 @@ social: false # includes social icons at the bottom of the page
 
 I am a board-certified psychiatrist at <a href='https://www.vghtpe.gov.tw/Index.action'>Taipei Veterans General Hospital</a> (see my <a href='https://wd.vghtpe.gov.tw/vghpsy/Fpage.action?muid=19926&fid=18001'>profile page</a>)in Taiwan. I earned an additional degree in mathematics and computer science after medical school, which allows me to approach mental health from both clinical and computational perspectives.
 
-My research lies at the intersection of artificial intelligence and psychiatry. I focus on leveraging diverse data modalities to develop foundation models that drive precision psychiatry and personalized interventions. Additionally, I am interested in exploring the potential of large language models and computer vision technologies to enhance therapeutic sessions.
+My research lies at the intersection of artificial intelligence and psychiatry. I focus on leveraging diverse data modalities to develop foundation models that drive precision psychiatry and personalized interventions. Additionally, I am interested in exploring the potential of interaction technologies to enhance therapeutic sessions.
 
 By integrating cutting-edge technology with data-driven insights, my mission is to revolutionize the way we diagnose, treat, and support individuals with mental health conditions. Through this work, I strive to improve care quality, enhance patient outcomes, and make mental healthcare more accessible and effective for all.
